@@ -12,6 +12,7 @@
   - [Sarobidy Tsizehena](https://github.com/tsizehena223)
   - [Joela Vonjiniaina](https://github.com/joelavj)
   - [Lobo Ranomenjanahary](https://github.com/jaonary-74)
+  - [Manasoa Harimihoby](https://github.com/Manasoahari)
  
 ### Our projects - Repository
 
@@ -19,5 +20,6 @@
   - [Casier Judiciaire N3](https://github.com/APEXNovaLabs/Casier-Judiciaire-N3)
   - [Prospectius 1.0.0](https://github.com/APEXNovaLabs/Prospectius1.0)
   - [elasticsearch to node](https://github.com/APEXNovaLabs/elasticsearch-server)
+  - [Planificator - Beta](https://github.com/AinaMaminirina18/Planificator)
  
   
