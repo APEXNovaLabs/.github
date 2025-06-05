@@ -9,7 +9,7 @@ Our community's projects are developed based on the following technology stack:
 - **Front-end:** KivyMD (Python), Next.js, React, TypeScript, JavaScript
 - **Back-end:** Java
 - **Database:** MySQL
-- **App:** Flutter, React Native
+- **Apps:** Flutter, React Native
 - **Tools:** VS Code, PyCharm, GitHub, Vercel, DataGrip, Android Studio, IntelliJ IDEA, Markdown
 
 ## Members
