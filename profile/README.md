@@ -10,7 +10,7 @@ Our community's projects are developed based on the following technology stack:
 - **Back-end:** Java
 - **Database:** MySQL
 - **App:** Flutter, React Native
-- **Tools:** VS Code, PyCharm, GitHub, Vercel, DataGrip, Android Studio, IntelliJ IDEA ,Markdown
+- **Tools:** VS Code, PyCharm, GitHub, Vercel, DataGrip, Android Studio, IntelliJ IDEA, Markdown
 
 ## Members
 
