@@ -29,4 +29,4 @@ Our community's projects are developed based on the following technology stack:
   - [Casier Judiciaire N3](https://github.com/APEXNovaLabs/Casier-Judiciaire-N3)
   - [Prospectius](https://github.com/APEXNovaLabs/ProspectiusFinal) : Prospection management software
   - [elasticsearch to node](https://github.com/APEXNovaLabs/elasticsearch-server)
-  - [Planificator 1.1.1](https://github.com/APEXNovaLabs/Planificator-1.1.1) : Planning and contract management software
+  - [Planificator](https://github.com/APEXNovaLabs/Planificator) : Planning and contract management software
